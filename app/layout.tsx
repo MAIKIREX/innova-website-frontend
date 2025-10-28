@@ -21,7 +21,6 @@ export const metadata: Metadata = {
   title: "INNOVA Ingeniería & Tecnología - Soluciones Integrales en Bolivia",
   description:
     "Empresa boliviana especializada en construcción, instalaciones eléctricas, redes & TI, software e impresión 3D",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
