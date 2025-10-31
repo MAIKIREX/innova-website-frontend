@@ -46,7 +46,7 @@ const slides = [
     id: "impresion",
     title: "Impresión 3D",
     subtitle: "Diseño y fabricación de piezas, señalética y elementos personalizados.",
-    image: "/3d-printer-manufacturing-custom-parts.jpg",
+    image: "/3d-printer-creating-colorful-plastic-prototypes-an.jpg",
     link: "/servicios/impresion-3d",
   },
 ]

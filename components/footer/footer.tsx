@@ -9,7 +9,7 @@ export function Footer() {
           {/* Logo and Description */}
           <div className="md:col-span-2">
             <Link href="/" className="flex items-center gap-3 mb-4">
-              <Image src="/images/logo.png" alt="INNOVA I&T" width={40} height={40} className="h-10 w-auto" />
+              <Image src="/images/logo3.svg" alt="INNOVA I&T" width={40} height={40} className="h-10 w-auto" />
               <span className="font-heading font-bold text-xl">INNOVA I&T</span>
             </Link>
             <p className="text-gray-300 leading-relaxed max-w-md">
@@ -52,7 +52,7 @@ export function Footer() {
               <li>NIT: 680646031</li>
               <li>
                 <a href="mailto:info@innova-it.bo" className="hover:text-white transition-colors">
-                  info@innova-it.bo
+                  innova.ingenieriaytecnologia@gmail.com
                 </a>
               </li>
             </ul>

@@ -42,6 +42,7 @@ export default function DistribucionEquiposPage() {
   return (
     <main className="min-h-screen">
       <Navbar />
+      <div className="pt-20">
 
       {/* Hero Section */}
       <section className="relative h-[40vh] flex items-center justify-center">
@@ -140,6 +141,7 @@ export default function DistribucionEquiposPage() {
           </Button>
         </div>
       </section>
+      </div>
 
       <Footer />
     </main>
