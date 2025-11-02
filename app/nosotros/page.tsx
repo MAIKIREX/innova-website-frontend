@@ -323,7 +323,7 @@ export default function NosotrosPage() {
                   <div>
                     <div
                       className="w-full h-64 bg-cover bg-center rounded-lg"
-                      style={{ backgroundImage: "url(/placeholder.svg?height=400&width=600&query=bolivia map)" }}
+                      style={{ backgroundImage: "url(/images/mapa1.png)" }}
                     />
                   </div>
                   <div className="space-y-4">
