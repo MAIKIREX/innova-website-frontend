@@ -37,10 +37,15 @@ export function Navbar() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3">
-            <Image src="/images/logo3.svg" alt="INNOVA I&T" width={50} height={50} className="h-12 w-auto" />
-            <span className="font-heading font-bold text-xl text-secondary dark:text-primary hidden sm:block">
-              INNOVA I&T
-            </span>
+            <Image src="/images/logo4.png" alt="INNOVA I&T" width={70} height={70} className="h-16 w-auto" />
+            <div className="flex flex-col">
+              <span className="font-heading font-bold text-xl text-secondary dark:text-primary hidden sm:block">
+                INNOVA
+              </span>
+              <span className="hidden sm:block">
+                ingeniería & tecnología
+              </span>
+            </div>
           </Link>
 
           {/* Desktop Menu */}

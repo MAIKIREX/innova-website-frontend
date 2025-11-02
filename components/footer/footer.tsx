@@ -9,8 +9,11 @@ export function Footer() {
           {/* Logo and Description */}
           <div className="md:col-span-2">
             <Link href="/" className="flex items-center gap-3 mb-4">
-              <Image src="/images/logo3.svg" alt="INNOVA I&T" width={40} height={40} className="h-10 w-auto" />
-              <span className="font-heading font-bold text-xl">INNOVA I&T</span>
+              <Image src="/images/logo4.png" alt="INNOVA I&T" width={40} height={40} className="h-14 w-auto" />
+              <div className="flex flex-col">
+                <span className="font-heading font-bold text-xl">INNOVA</span>
+                <span>Ingenieria & Tecnologia</span>
+              </div>
             </Link>
             <p className="text-gray-300 leading-relaxed max-w-md">
               Soluciones integrales en construcción, instalaciones eléctricas, redes & TI, software e impresión 3D.

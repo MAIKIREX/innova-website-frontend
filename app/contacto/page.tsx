@@ -256,7 +256,7 @@ export default function ContactoPage() {
               <Card className="overflow-hidden">
                 <div
                   className="w-full h-96 bg-cover bg-center"
-                  style={{ backgroundImage: "url(/placeholder.svg?height=600&width=1200&query=la paz bolivia map)" }}
+                  style={{ backgroundImage: "url(/images/mapa1.png)" }}
                 />
                 <div className="p-8 bg-muted/30">
                   <p className="text-center text-lg text-muted-foreground leading-relaxed">
